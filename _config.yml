@@ -1,28 +1,40 @@
-name: "Jonathan O'Dea"
-favicon: null
-layout_spectrum: 0.5031697659287602
-typography_spectrum: 0.07305347407236695
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.6904762
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5
+  brandStrength: 0.25
+  rhythmicContrast: 0.7735505958553404
   brandColors:
     - '#111723'
     - '#548af0'
     - '#dbe7f5'
     - '#4b576f'
     - '#e45f74'
-  brandStrength: 0.25
   lightness: 0.6711588015314192
-  saturation: 0.5
-  rhythmicContrast: 0.7735505958553404
-purpose: []
+typography_spectrum: 0.5119048
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: "Jonathan O'Dea"
