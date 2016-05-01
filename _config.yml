@@ -1,0 +1,28 @@
+name: "Jonathan O'Dea"
+favicon: null
+layout_spectrum: 0.5031697659287602
+typography_spectrum: 0.07305347407236695
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.11856764205731452
+  lightness: 0.6711588015314192
+  saturation: 0.008412606548517942
+  rhythmicContrast: 0.7735505958553404
+purpose: []
