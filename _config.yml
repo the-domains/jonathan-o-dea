@@ -1,8 +1,4 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+name: "Jonathan O'Dea"
 opengraph:
   image: null
   type: null
@@ -32,9 +28,13 @@ color:
     - '#e45f74'
   rhythmicContrast: 0
 typography_spectrum: 0.5119048
-layout_spectrum: 0.6904762
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-name: "Jonathan O'Dea"
+favicon: null
+layout_spectrum: 1
